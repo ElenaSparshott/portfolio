@@ -11,7 +11,7 @@ const Navbar = () => {
     const handleClick = () => setNav(!nav)
 
   return (
-    <div className='fixed w-full flex justify-between items-center px-4 bg-[#0a129f] text-gray-300'>
+    <div className='fixed w-full flex justify-between items-center px-4 bg-[#0a819f] text-gray-300'>
         <div>
             <img src={Favicon} alt="My Logo" style={{width: '50px'}}/>
         </div>
@@ -42,7 +42,7 @@ const Navbar = () => {
         </ul>
 
         {/* {Social icons} */}
-        <div className='flex fixed flex-col top-[35%] left-0'>
+        <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
             <ul>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
                     <a className='flex justify-between items-center w-full text-gray-300'   href="/">
