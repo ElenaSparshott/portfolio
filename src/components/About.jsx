@@ -6,18 +6,20 @@ const About = () => {
         <div className='flex flex-col justify-center items-center w-full h-full'>
             <div className='max-w-[1000px] w-full px-4 grid grid-cols-2 gap-8'>
                     <div className='sm:text-right pb-8 pl-4'>
-                        <p className='text-4xl font-bold inline border-b-4 text-[#0a819f]'>About</p>
+                        <p className='text-4xl font-bold inline border-b-4 text-[#0a819f]'>
+                        About
+                        </p>
                     </div>
+
                     <div></div>
                 </div>
                 <div className='max-w-[1000px] w-full px-4 grid grid-cols-2 gap-8'>
-                <div className='sm:text-right text-4xl font-bold'></div>
-                
-                  <div><p>Hi, I'm Ellie</p></div>
-                
-                  <div>
-                  <p>I am passionate about software engineerig.</p>
-                  </div>
+                <div className='sm:text-right text-4xl font-bold'>               
+                  <p>Hi, I'm Ellie</p>
+                </div>                  
+                <div>
+                  <p>I am passionate about software engineerig.  I have completed the School of Code Bootcamp. I have used JavaScript programming language and learned problem solving techniques.</p>
+                </div>
             </div>
         </div>
     </div>
