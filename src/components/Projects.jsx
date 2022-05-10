@@ -10,29 +10,60 @@ const Projects = () => {
             </div>
         
             {/* {set the grid} */}
-            <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
+            {/* <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'> */}
+            <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-6 text-center py-10'>
+
                 {/* card item */}
-                <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'>
-
-                    {/* { Hover Effect} */}
+                <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'>                 
                     <div>
-                        <span>
-
-                        </span>
-                        <div>
-                            <a href="/">
-                                <button></button>
-                            </a>
-                            <a href="/">
-                                <button></button>
-                            </a>
-
-                        </div>
+                         <a href="/">
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>   Scratch Game.   </button>
+                        </a>                        
                     </div>
                 </div>
+
+
+                <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
+                    <div>
+                         <a href="/">
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Rock Paper Scissors.</button>
+                        </a>                        
+                    </div>
+                </div>
+
+                <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
+                    <div>
+                         <a href="/">
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Rock Paper Scissors.</button>
+                        </a>                        
+                    </div>
+                </div>
+
+                <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
+                    <div>
+                         <a href="/">
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Rock Paper Scissors.</button>
+                        </a>                        
+                    </div>
+                </div>
+
+                <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
+                    <div>
+                         <a href="/">
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Rock Paper Scissors.</button>
+                        </a>                        
+                    </div>
+                </div>
+
+                <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
+                    <div>
+                         <a href="/">
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Rock Paper Scissors.</button>
+                        </a>                        
+                    </div>
+                </div>
+
             </div>
-
-
         </div>
     </div>
   )

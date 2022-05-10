@@ -10,6 +10,7 @@ import REACT from '../assets/react.png';
 export const Skills = () => {
   return (
     <div name='skills' className="bg-[#9193c3]">
+    
       {/* {container} */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div>
