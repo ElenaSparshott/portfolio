@@ -16,7 +16,7 @@ const Projects = () => {
                 {/* card item */}
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'>                 
                     <div>
-                         <a href='/scratch.mit.edu/projects/576151242'>
+                         <a href='https://scratch.mit.edu/projects/576151242'>
                                 <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>   Scratch Game.   </button>
                         </a>                        
                     </div>
