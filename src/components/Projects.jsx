@@ -16,7 +16,7 @@ const Projects = () => {
                 {/* card item */}
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'>                 
                     <div>
-                         <a href="/">
+                         <a href='/scratch.mit.edu/projects/576151242'>
                                 <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>   Scratch Game.   </button>
                         </a>                        
                     </div>
@@ -26,7 +26,7 @@ const Projects = () => {
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
                          <a href="/">
-                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Rock Paper Scissors.</button>
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>React Rock Paper Scissors.</button>
                         </a>                        
                     </div>
                 </div>
@@ -34,7 +34,7 @@ const Projects = () => {
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
                          <a href="/">
-                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Rock Paper Scissors.</button>
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Pomodoro.</button>
                         </a>                        
                     </div>
                 </div>
@@ -42,7 +42,7 @@ const Projects = () => {
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
                          <a href="/">
-                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Rock Paper Scissors.</button>
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Jellly Maths.</button>
                         </a>                        
                     </div>
                 </div>
@@ -50,7 +50,7 @@ const Projects = () => {
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
                          <a href="/">
-                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Rock Paper Scissors.</button>
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Quiz Game.</button>
                         </a>                        
                     </div>
                 </div>
@@ -58,7 +58,7 @@ const Projects = () => {
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
                          <a href="/">
-                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Rock Paper Scissors.</button>
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'> JavaScript Rock Paper Scissors.</button>
                         </a>                        
                     </div>
                 </div>
