@@ -9,8 +9,7 @@ const Projects = () => {
                 <p className='py-6'>Some of my recent projects</p>
             </div>
         
-            {/* {set the grid} */}
-            {/* <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'> */}
+            {/* {set the grid} */}           
             <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-6 text-center py-10'>
 
                 {/* card item */}
