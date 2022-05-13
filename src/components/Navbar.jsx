@@ -4,6 +4,7 @@ import {FaBars, FaTimes, FaLinkedin, FaGithub} from 'react-icons/fa'
 import Favicon from "../assets/favicon.ico"
 import {BsFillPersonLinesFill} from "react-icons/bs"
 import {HiMail} from 'react-icons/hi'
+import {Link} from 'react-scroll'
 
 const Navbar = () => {
 
@@ -18,7 +19,11 @@ const Navbar = () => {
 
         {/* { menu } */}
             <ul className='hidden md:flex'>
-                <li>Home</li>
+                <li>
+                    <Link to="home" smooth={true} duration={500}>
+                    Home
+                    </Link>
+                </li>               
                 <li>About</li>
                 <li>Skills</li>
                 <li>Projects</li>
