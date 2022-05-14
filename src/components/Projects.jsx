@@ -24,7 +24,7 @@ const Projects = () => {
 
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
-                         <a href="/">
+                         <a href="https://github.com/ElenaSparshott/react-rock-paper-scissors">
                                 <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>React Rock Paper Scissors.</button>
                         </a>                        
                     </div>
@@ -32,7 +32,7 @@ const Projects = () => {
 
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
-                         <a href="/">
+                         <a href="https://github.com/ElenaSparshott/pomodoro">
                                 <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Pomodoro.</button>
                         </a>                        
                     </div>
@@ -40,7 +40,7 @@ const Projects = () => {
 
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
-                         <a href="/">
+                         <a href="https://jellly.netlify.app/">
                                 <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Jellly Maths.</button>
                         </a>                        
                     </div>
@@ -48,7 +48,7 @@ const Projects = () => {
 
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
-                         <a href="/">
+                         <a href="https://github.com/ElenaSparshott/QuizGame">
                                 <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Quiz Game.</button>
                         </a>                        
                     </div>
@@ -56,7 +56,7 @@ const Projects = () => {
 
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
-                         <a href="/">
+                         <a href="https://github.com/SchoolOfCode/w1d5_rock-paper-scissors-hackathon-group32ellie-and-fatou">
                                 <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'> JavaScript Rock Paper Scissors.</button>
                         </a>                        
                     </div>
