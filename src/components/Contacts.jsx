@@ -13,26 +13,26 @@ function Contacts() {
             <textarea className='bg-[#dae0f3]' p-2 name="message" placeholder='Message' rows="10"/>
             <button className='text-white border-2  hover:bg-[#0a819f] hover:border-[#dae0f3] px-4 py-3 mx-auto my-8 flex items-center' >Submit</button>
         </form> */}
-        <p>
-          About Me
-          I am a trainee software developer on the School of Code bootcamp, which is a 16 week intensive course to prepare for a career in software engineering. We are working in JavaScript on full-stack applications.
-          Skills
-          JavaScript, React, CSS, HTML5, Node.js, SQL, Postgres, GitHub, JEST and Cypress.
-          Experience
-          School of Code Bootcamp — November 2021 to present
+        <div>
+          <h1>About Me</h1>
+          <h2>I am a trainee software developer on the School of Code bootcamp, which is a 16 week intensive course to prepare for a career in software engineering. We are working in JavaScript on full-stack applications.</h2>
+          <h1>Skills</h1>
+          <h2>JavaScript, React, CSS, HTML5, Node.js, SQL, Postgres, GitHub, JEST and Cypress.</h2>
+          <h1>Experience</h1>
+          <h2>School of Code Bootcamp — November 2021 to present
           My first team project was a pomodoro application with daily blog posts to record learning progress. My month project is a fun app to learn maths and improve financial literacy.
           Community Pharmacist  — 2005-2022
           I am a qualified registered pharmacist. I have been the responsible pharmacist running community pharmacies since 2005.
           Counter assistant and Dispenser — 1998-2004
-          Counter assistant and dispenser in community pharmacy.
-          Education
-          University of Portsmouth — Masters of Pharmacy 2:1 with Honours
+          Counter assistant and dispenser in community pharmacy.</h2>
+          <h1>Education</h1>
+          <h2>University of Portsmouth — Masters of Pharmacy 2:1 with Honours
           Masters of Pharmacy 2:1 with honours
           A Levels in Biology, Chemistry and Physics 
 
           References 
-          Available on request
-        </p>
+          Available on request</h2>
+        </div>
     </div>
   )
 }
