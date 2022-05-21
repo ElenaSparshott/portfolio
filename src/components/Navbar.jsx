@@ -38,7 +38,7 @@ const Navbar = () => {
                     </Link>
                 </li>
                 <li><Link to="contact" smooth={true} duration={500}>
-                    Contact
+                    CV
                     </Link>
                 </li>
             </ul>
@@ -78,9 +78,9 @@ const Navbar = () => {
                     </a>
                 </li>
                  <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-                    <a className='flex justify-between items-center w-full text-gray-300'   href="/">
-                        CV<BsFillPersonLinesFill size={30}/>                    
-                    </a>
+                    <p className='flex justify-between items w-full text-gray-300'><Link to="contact" smooth={true} duration={500}>                                      
+                        CV<BsFillPersonLinesFill size={30}/></Link>                   
+                    </p>
                 </li>
             </ul>
 
