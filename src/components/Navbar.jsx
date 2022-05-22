@@ -37,9 +37,9 @@ const Navbar = () => {
                     Projects
                     </Link>
                 </li>
-                <li><Link to="contact" smooth={true} duration={500}>
-                    CV
-                    </Link>
+                <li><a href={process.env.PUBLIC_URL + 'ElenaSparshottCV.pdf'}
+                    >CV
+                    </a>
                 </li>
             </ul>
         
@@ -78,9 +78,9 @@ const Navbar = () => {
                     </a>
                 </li>
                  <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-                    <p className='flex justify-between items w-full text-gray-300'><Link to="contact" smooth={true} duration={500}>                                      
-                        CV<BsFillPersonLinesFill size={30}/></Link>                   
-                    </p>
+                    <a className='flex justify-between items w-full text-gray-300' href={process.env.PUBLIC_URL + 'ElenaSparshottCV.pdf'}>                                  
+                        CV<BsFillPersonLinesFill size={30}/></a>                
+                    
                 </li>
             </ul>
 

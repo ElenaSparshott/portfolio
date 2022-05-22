@@ -24,8 +24,8 @@ const Projects = () => {
 
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
-                         <a href="https://github.com/ElenaSparshott/react-rock-paper-scissors">
-                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>React Rock Paper Scissors.</button>
+                         <a href="https://jellly.netlify.app/">
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Jellly Maths.</button>
                         </a>                        
                     </div>
                 </div>
@@ -40,8 +40,8 @@ const Projects = () => {
 
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
-                         <a href="https://jellly.netlify.app/">
-                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Jellly Maths.</button>
+                         <a href="https://github.com/ElenaSparshott/react-rock-paper-scissors">
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>React Rock Paper Scissors.</button>
                         </a>                        
                     </div>
                 </div>
@@ -61,6 +61,23 @@ const Projects = () => {
                         </a>                        
                     </div>
                 </div>
+
+                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
+                    <div>
+                         <a href="https://github.com/ElenaSparshott/superheroes">
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'> Superheros.</button>
+                        </a>                        
+                    </div>
+                </div>
+
+                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
+                    <div>
+                         <a href="https://github.com/ElenaSparshott/I-am-rich">
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'> I am rich.</button>
+                        </a>                        
+                    </div>
+                </div>
+                
 
             </div>
         </div>
