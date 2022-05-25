@@ -14,7 +14,7 @@ const Home = () => {
             <p className='text-[#474b59] py-4 max-w[600px]'>I am a full-stack developer working on responsive full stack web applications.</p>
 
             <div>
-                <button className='text-[white] group border-2 px-6 my-2 py-3 flex items-center hover:bg-[#0a819f] hover:border[#0a819f]'><Link to="projects" smooth={true} duration={500}>
+                <button className='bg-[#0a819f] text-[white] group border-2 px-6 my-2 py-3 flex items-center hover:bg-[#3b9fb8] hover:border[#46bad7]'><Link to="projects" smooth={true} duration={500}>
                     {/* Projects */}
                     View projects</Link>
                     <span className='group-hover:rotate-90 duration-300'>
