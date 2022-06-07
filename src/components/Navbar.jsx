@@ -12,7 +12,7 @@ const Navbar = () => {
     const handleClick = () => setNav(!nav)
 
   return (
-    <div className='fixed w-full flex justify-between items-center px-4 bg-[#0a819f] text-gray-300'>
+    <div className='fixed w-full flex justify-between items-center px-4 bg-[#0a819f] text-[#474b59]'>
         <div>
             <img src={Favicon} alt="My Logo" style={{width: '50px'}}/>
         </div>
