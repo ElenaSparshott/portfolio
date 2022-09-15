@@ -1,6 +1,7 @@
 import React from 'react'
 import {HiArrowNarrowRight} from 'react-icons/hi'
 import {Link} from 'react-scroll'
+import mySprite from '../assets/mySprite.png'
 
 const Home = () => {
   return (
@@ -22,6 +23,7 @@ const Home = () => {
                     </span>
                 </button>
             </div>
+            <img className='w-40 mx-auto py-4'  src={mySprite} alt="My Sprite" />
         </div>
         
 

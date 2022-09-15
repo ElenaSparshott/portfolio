@@ -1,11 +1,11 @@
 import React from 'react'
-
 import CSS from '../assets/css.png';
 import GITHUB from '../assets/github.png';
 import HTML from '../assets/html.png';
 import JAVASCRIPT from '../assets/javascript.png';
 import NODE from '../assets/node.png';
-import REACT from '../assets/react.png';
+import PYTHON from '../assets/python.png';
+
 
 export const Skills = () => {
   return (
@@ -14,9 +14,9 @@ export const Skills = () => {
       {/* {container} */}
       <div className='max-w-[1000px] mx-auto p-14 flex flex-col justify-center w-full h-full'>
         <div>
-          <p className='text-4xl text-[#474b59] font-bold inline border-b-4 border-[#0a819f]'>Skills</p>
+          <p className='text-6xl text-[#474b59] font-bold inline border-b-4 border-[#0a819f]'>Skills</p>
 
-          <p className='py-6 text-[#474b59]'>These are the technologies I have worked with</p>
+          <p className='py-6 text-[#474b59] text-3xl'>These are the technologies I have worked with</p>
         </div>
 
 
@@ -48,8 +48,8 @@ export const Skills = () => {
           </div>
 
           <div className='shadow-md shadow-[#040c16] hover:scale-150 duration-500'>
-            <img className='w-20 mx-auto py-4'  src={REACT} alt="HTML icon" />
-            <p className='my-4'>HTML</p>
+            <img className='w-20 mx-auto py-4'  src={PYTHON} alt="HTML icon" />
+            <p className='my-4'>PYTHON</p>
           </div>
 
         </div>

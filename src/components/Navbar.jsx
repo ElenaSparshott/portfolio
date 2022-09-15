@@ -12,9 +12,9 @@ const Navbar = () => {
     const handleClick = () => setNav(!nav)
 
   return (
-    <div className='fixed w-full flex justify-between items-center px-4 bg-[#0a819f] text-[#474b59]'>
+    <div className='fixed w-full flex justify-between items-center px-4 bg-[#0a819f] text-[#474b59] text-4xl'>
         <div>
-            <img src={Favicon} alt="My Logo" style={{width: '50px'}}/>
+            <img src={Favicon} alt="My Logo" style={{width: '100px'}}/>
         </div>
 
         {/* { menu } */}
