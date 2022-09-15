@@ -20,7 +20,8 @@ const About = () => {
                 <div className='sm:text-left text-2xl font-bold'>
                 <br></br>
                 <br></br>
-                  <h1>I am a graduate of the School of Code software developer bootcamp, which is a 16 week intensive course to prepare for a career in software engineering. I focus on JavaScript building full-stack applications. I have used JavaScript, Flutter and Dart and Python. The bootcamp taught us problem solving techniques and we worked in teams to build software application.</h1>
+                  <h1>I am an alumni of the School of Code.
+                  I focus on JavaScript building full-stack applications. I have projects written in javaScript and react, dart with flutter and python with flask. The bootcamp taught us problem solving techniques and we worked in teams with agile workflows to build software application.</h1>
                 </div>
             </div>
         </div>
