@@ -22,6 +22,14 @@ const Projects = () => {
                 </div>
 
 
+                <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'>                 
+                    <div>
+                         <a href='https://elliekins999.pythonanywhere.com/'>
+                                <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>   Pokemon Battle (Flask)</button>
+                        </a>                        
+                    </div>
+                </div>
+
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
                          <a href="https://jellly.netlify.app/">

@@ -37,7 +37,7 @@ const Navbar = () => {
                     Projects
                     </Link>
                 </li>
-                <li><a href={process.env.PUBLIC_URL + 'ElenaSparshottCV.pdf'}
+                <li><a href={process.env.PUBLIC_URL + 'CVElenaSparshott.pdf'}
                     >CV
                     </a>
                 </li>
