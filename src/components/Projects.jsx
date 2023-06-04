@@ -32,7 +32,7 @@ const Projects = () => {
 
                 <div className='shasow-lg shadow-[#065a6f] group container rounded-md flex justify-center items-end mx-auto content-div'> 
                     <div>
-                         <a href="https://jellly.netlify.app/">
+                         <a href="https://jellly3.netlify.app//">
                                 <button className='text-center font-bold rounded-lg px-4 py-3 m-2 bg-[#0a819f] text-[white]'>Jellly Maths. (React)</button>
                         </a>                        
                     </div>
